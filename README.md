@@ -25,3 +25,9 @@ use VarProfile\VarMemDumper;
 
 VarMemDumper::d($varName, $maxDepth, $maxItemsPerDepth);
 ~~~
+
+#### cli dump
+![cliDump](/images/cliDump.png)
+
+#### html dump
+![htmlDump](/images/htmlDump.png)
