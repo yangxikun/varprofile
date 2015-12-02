@@ -1,0 +1,22 @@
+{
+    "name": "rokety/varprofile",
+    "description": "php variables memory profile ",
+    "license": "MIT",
+    "keywords": ["var profile", "memory"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Rokety",
+            "email": "yangrokety@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper" : "v3.0.0"
+    },
+ 
+    "autoload": {
+        "psr-4": {
+            "VarProfile\\": "src/"
+        }
+    }
+}
