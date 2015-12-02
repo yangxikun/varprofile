@@ -4,7 +4,7 @@ php variables memory profile
 
 ## Require
 
-PHP extension: ![varprofile](https://github.com/yangxikun/phpext-learning/tree/master/varprofile)
+PHP extension: [varprofile](https://github.com/yangxikun/phpext-learning/tree/master/varprofile)
 
 ## Parameters
 
